@@ -1,5 +1,6 @@
 //servo controlled aerosol gag
 //this worked fairly well...on Dan back on Orion
+//this is just credential test
 
 #include <Servo.h> 
 #include <stdlib.h>
