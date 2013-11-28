@@ -2,6 +2,7 @@
 //this worked fairly well...on Dan back on Orion
 //this is just credential test
 //hopefully that's it
+//piece of garbage...i had to use SSH. DOH!
 
 #include <Servo.h> 
 #include <stdlib.h>
