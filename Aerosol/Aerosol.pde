@@ -1,4 +1,5 @@
 //servo controlled aerosol gag
+//this worked fairly well...
 
 #include <Servo.h> 
 #include <stdlib.h>
