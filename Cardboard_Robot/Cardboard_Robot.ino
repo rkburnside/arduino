@@ -1,3 +1,5 @@
+//this is just code for adelle's robot
+
 #include "AccelStepper.h"
 #include "AFMotor.h"
 #include <Servo.h>
